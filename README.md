@@ -5,6 +5,8 @@
 ## CSS
 
 ### Properties
+![image](https://user-images.githubusercontent.com/79492525/229614776-781848bc-2190-4257-a1fc-e2f9304aeb46.png)
+
 
 - **_box-sizing_**:The `box-sizing` property in CSS determines how the total width and height of an element is calculated. By default, the width and height of an element is calculated based on the content, padding, and border. With `box-sizing: border-box`, the width and height of an element is calculated based on the content, padding, and border, with the padding and border included in the total width and height. This property is useful for creating layouts with precise dimensions and spacing, without having to account for the additional width and height created by padding and border.
 
