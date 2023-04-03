@@ -2,12 +2,11 @@
 
 - Learning html, css and javascript
 
+![image](https://user-images.githubusercontent.com/79492525/229615159-99169dc6-1598-4b3f-b50b-6f161468586f.png)
+
 ## CSS
 
 ### Properties
-
-![image](https://user-images.githubusercontent.com/79492525/229615159-99169dc6-1598-4b3f-b50b-6f161468586f.png)
-
 
 - **_box-sizing_**:The `box-sizing` property in CSS determines how the total width and height of an element is calculated. By default, the width and height of an element is calculated based on the content, padding, and border. With `box-sizing: border-box`, the width and height of an element is calculated based on the content, padding, and border, with the padding and border included in the total width and height. This property is useful for creating layouts with precise dimensions and spacing, without having to account for the additional width and height created by padding and border.
 
